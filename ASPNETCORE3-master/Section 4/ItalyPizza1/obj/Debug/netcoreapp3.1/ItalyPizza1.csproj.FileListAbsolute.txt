@@ -1,0 +1,16 @@
+C:\Users\Burdett\source\repos\ItalyPizza1\bin\Debug\netcoreapp3.1\ItalyPizza1.exe
+C:\Users\Burdett\source\repos\ItalyPizza1\bin\Debug\netcoreapp3.1\ItalyPizza1.deps.json
+C:\Users\Burdett\source\repos\ItalyPizza1\bin\Debug\netcoreapp3.1\ItalyPizza1.runtimeconfig.json
+C:\Users\Burdett\source\repos\ItalyPizza1\bin\Debug\netcoreapp3.1\ItalyPizza1.runtimeconfig.dev.json
+C:\Users\Burdett\source\repos\ItalyPizza1\bin\Debug\netcoreapp3.1\ItalyPizza1.dll
+C:\Users\Burdett\source\repos\ItalyPizza1\bin\Debug\netcoreapp3.1\ItalyPizza1.pdb
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\ItalyPizza1_MarkupCompile.cache
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\ItalyPizza1_MarkupCompile.lref
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\ItalyPizza1.g.resources
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\ItalyPizza1.AssemblyInfoInputs.cache
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\ItalyPizza1.AssemblyInfo.cs
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\ItalyPizza1.dll
+C:\Users\Burdett\source\repos\ItalyPizza1\obj\Debug\netcoreapp3.1\ItalyPizza1.pdb
