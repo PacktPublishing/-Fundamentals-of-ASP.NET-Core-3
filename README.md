@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/fundamentals-of-asp-net-core-3-video/9781789345063)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Fundamentals of ASP.NET Core 3 [Video]
 This is the code repository for [Fundamentals of ASP.NET Core 3](https://www.packtpub.com/web-development/fundamentals-of-asp-net-core-3-video). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
