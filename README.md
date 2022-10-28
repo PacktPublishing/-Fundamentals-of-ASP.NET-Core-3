@@ -56,3 +56,7 @@ Provide links/instructions so that the customer can easily find out where to dow
 * [Hands-On Web Development with ASP.NET Core and Angular 7 [Video]](https://www.packtpub.com/web-development/hands-web-development-aspnet-core-and-angular-7-video)
 
 * [Full Stack Development with React and ASP.NET Core 2 [Video]](https://www.packtpub.com/web-development/full-stack-development-react-and-aspnet-core-2-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789345063">https://packt.link/free-ebook/9781789345063 </a> </p>
